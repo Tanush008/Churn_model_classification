@@ -56,7 +56,7 @@ logs/
 *.log
 
 # ML / model artifacts
-*.h5
+
 *.joblib
 
 # Local environment files
